@@ -1,1 +1,9 @@
-# tutorial-node-crud
+#tutorial-api
+
+```
+npm install
+```
+
+```
+node server.js
+```
